@@ -59,8 +59,7 @@ public class P07_GokhanY {
         //  code Start here don't change before this line
         // kodu burdan başlatın ve bu satırdan önceki kodları değiştirmeyin
 
-        System.out.println("gokhan branch i olusturdum...");
-        System.out.println("gokhan branch i olusturdum...");
-        System.out.println("gokhan branch i olusturdum...");
+        System.out.println("gokhan branch i olusturdum...12042022");
+
     }
 }
